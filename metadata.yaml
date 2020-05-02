@@ -1,16 +1,21 @@
 _repo: South-to-Propontis_61942
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Dun, Angus
     gutenberg_agent_id: '51686'
     url: http://www.gutenberg.org/2009/agents/51686
+covers:
+- cover_type: archival
+  image_path: 61942-h/images/cover.jpg
 creator:
   author:
     agent_name: Ackermann, Henry Andrew
     gutenberg_agent_id: '51690'
     url: http://www.gutenberg.org/2009/agents/51690
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61942#South-to-Propontis
 gutenberg_issued: '2020-04-26'
 gutenberg_type: Text
 identifiers:
